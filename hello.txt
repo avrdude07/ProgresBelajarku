@@ -1,2 +1,1 @@
-Hello world , I am a developper
-# bagian yang gagal
+Hello world saja
